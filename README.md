@@ -16,6 +16,8 @@ In a world full of information, we needed to figure out how to make our global o
   2. **Data Cleaning with Power Query Editor:**
       - Removed unnecessary columns, eliminated duplicate rows, and standardized data formats.
 
+  ![Screenshot (92)](https://github.com/AkshayShirbhate09/Supply_Chain_Analysis/assets/161019134/f4c750a7-1caf-4406-90be-3d183df66703)
+
   3. **Initial Visualization:**
       - Created initial visualizations to gain a broad overview of the data, using basic charts.
 
@@ -30,9 +32,6 @@ In a world full of information, we needed to figure out how to make our global o
   6. **Checking Categories:**
       - Evaluated product categories to determine their impact on performance.
       - Identified opportunities for optimization within each category.
-
-        ![Screenshot (92)](https://github.com/AkshayShirbhate09/Supply_Chain_Analysis/assets/161019134/f4c750a7-1caf-4406-90be-3d183df66703)
-
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 👀 **What was our requirements**
@@ -42,7 +41,7 @@ In a world full of information, we needed to figure out how to make our global o
        - In which countries do we need to allocate more resources or attention to spur growth?
        - Can we identify any trends or patterns among high-growth countries?
          
-  ![country](https://github.com/AkshayShirbhate09/Supply_Chain_Analysis/assets/161019134/d6b953f9-7ee8-4547-8c10-33088ac94c17)
+![country (2)](https://github.com/AkshayShirbhate09/Supply_Chain_Analysis/assets/161019134/1c324214-9e19-4f46-8e35-7434a2e8d8da)
 
   2. **Departments Analysis:**
        - How do different departments within the organization contribute to overall performance?
@@ -64,11 +63,10 @@ In a world full of information, we needed to figure out how to make our global o
        - Are there any customer segments that are currently underserved or overlooked?
          
   ![segment](https://github.com/AkshayShirbhate09/Supply_Chain_Analysis/assets/161019134/753ebca1-cb64-4d57-87ef-3a0c9c3245d7)
-
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 💡 **Why It's Cool:**
 
-    - Equips us to make smarter decisions, optimizing resource allocation.
-    - Guides us in focusing efforts where they'll have the most impact, saving time and money.
-    - Prepares us for upcoming challenges and opportunities.
+   - Equips us to make smarter decisions, optimizing resource allocation.
+   - Guides us in focusing efforts where they'll have the most impact, saving time and money.
+   - Prepares us for upcoming challenges and opportunities.
