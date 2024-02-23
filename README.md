@@ -1,3 +1,6 @@
+#Supply Chain Analysis using Power BI
+
+
 📊 **Project Objective:**
 
 In a world full of information, we needed to figure out how to make our global operations work better. We used Power BI and Excel to help us understand what's happening in different countries, customer groups, products, departments, and categories.
