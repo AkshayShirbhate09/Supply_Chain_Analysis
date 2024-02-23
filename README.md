@@ -1,10 +1,11 @@
-#Supply Chain Analysis using Power BI
+# Supply Chain Analysis using Power BI
 
+![pexels-tom-fisk-3856440](https://github.com/AkshayShirbhate09/Supply_Chain_Analysis/assets/161019134/810f7f46-9796-46cc-b5d4-b30adb2aae90)
 
 📊 **Project Objective:**
 
 In a world full of information, we needed to figure out how to make our global operations work better. We used Power BI and Excel to help us understand what's happening in different countries, customer groups, products, departments, and categories.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🛠️ **Data Journey:**
 
@@ -29,7 +30,7 @@ In a world full of information, we needed to figure out how to make our global o
   6. **Checking Categories:**
       - Evaluated product categories to determine their impact on performance.
       - Identified opportunities for optimization within each category.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 👀 **What was our requirements**
 
@@ -57,7 +58,7 @@ In a world full of information, we needed to figure out how to make our global o
        - Which product types are most popular among customers, and why?
        - Are there any product types that consistently underperform, and what factors may be contributing to this?
        - How can we optimize our product portfolio to better align with customer preferences and market demand?
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 💡 **Why It's Cool:**
 
