@@ -65,6 +65,22 @@ In a world full of information, we needed to figure out how to make our global o
   ![segment](https://github.com/AkshayShirbhate09/Supply_Chain_Analysis/assets/161019134/753ebca1-cb64-4d57-87ef-3a0c9c3245d7)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+📊 Visuals Used:
+
+  1. 🧮 **Slicer**: Interactive filtering of data based on specific criteria.
+  2. 🃏 **Cards**: Concise summaries of key metrics or KPIs.
+  3. 📈 **Line & Area Chart**: Visualizing trends and patterns over time.
+  4. 🍩 **Customized Donut Chart**: Comparing proportions within different categories.
+  5. 🗺️ **Shape Map Chart**: Displaying geographical data.
+  6. 📊 **Column Chart**: Comparing values across different categories.
+  7. 📊 **Stacked Column Chart**: Comparing individual and total values.
+  8. 📊 **Stacked Bar Chart**: Visualizing parts to the whole.
+  9. 🍩 **Donut Chart**: Comparing proportions between categories.
+  10. 💡 **Quick Insight**: Instant analysis and highlights of key trends.
+  11. 📊 **Matrix**: Comparisons between multiple variables and categories.
+  12. 📊 **Ribbon Chart**: Representing changes in values over time or categories.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 💡 **Why It's Cool:**
 
    - Equips us to make smarter decisions, optimizing resource allocation.
