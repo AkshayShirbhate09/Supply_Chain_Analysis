@@ -1,6 +1,6 @@
 # Supply Chain Analysis using Power BI
 
-![pexels-tom-fisk-3856440](https://github.com/AkshayShirbhate09/Supply_Chain_Analysis/assets/161019134/810f7f46-9796-46cc-b5d4-b30adb2aae90)
+![rsz_gettyimages-800997982](https://github.com/AkshayShirbhate09/Supply_Chain_Analysis/assets/161019134/6f008f15-6911-4a5d-b941-a6091652b90e)
 
 📊 **Project Objective:**
 
